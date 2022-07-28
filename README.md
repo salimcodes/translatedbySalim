@@ -100,7 +100,7 @@ Hurray!!! The command downloads the necessary libraries and their dependencies.
 ## Create the app
 After setting up the environment, we will create the project. We will create the template for the landing page and test that the application is running correctly.
 
-Typically, the entry point for Flask applications is a file named app.py. We're going to follow this convention and create the core of our application. We'll perform the following steps:
+Typically, the entry point for Flask applications is a file named `app.py`. We're going to follow this convention and create the core of our application. We'll perform the following steps:
 
 1. Create our core application
 2. Add the route for our application
