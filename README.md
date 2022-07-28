@@ -69,7 +69,7 @@ source ./venv/bin/activate
 
 With our virtual environment created and activated, we can now install Flask, the library we need for our website. We'll install Flask by following a common convention, which is to create a `requirements.txt` file.
 
-The requirements.txt file isn't special in and of itself; it's a text file where we list the libraries required for our application. But it's the convention typically used by developers, and makes it easier to manage applications where numerous libraries are dependencies.
+The `requirements.txt` file isn't special in and of itself; it's a text file where we list the libraries required for our application. But it's the convention typically used by developers, and makes it easier to manage applications where numerous libraries are dependencies.
 
 
 During later exercises, we'll use a couple of other libraries, including `requests` (to call Translator service) and `python-dotenv` (to manage our keys). While we don't need them yet, we're going to make our lives a little easier by installing them now.
