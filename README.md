@@ -1,4 +1,4 @@
-# Step-by-Step Hands-On Process for the AI-translator created by Salim Oyinlola
+# Step-by-Step Hands-On Process for replicating the AI-translator created by Salim Oyinlola
 
 What will you learn: How to create a Flask application, create a Translator service on Azure, and use requests to call the service.
 
