@@ -2,7 +2,7 @@
 
 What will you learn: How to create a Flask application, create a Translator service on Azure, and use requests to call the service.
 
-What you'll need:	Python and Visual Studio Code
+What you'll need: Python and Visual Studio Code
 
 Duration: Roughly 30 minutes
 
