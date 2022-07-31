@@ -4,8 +4,6 @@ What will you learn: How to create a Flask application, create a Translator serv
 
 What you'll need: Python and Visual Studio Code
 
-Duration: Roughly 30 minutes
-
 ## Setup your environment
 We will start by configuring the environments. We will install the necessary tooling, create the folder for their project, and setup the necessary Python libraries.
 
