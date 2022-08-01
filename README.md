@@ -5,6 +5,7 @@ What will you learn: How to create a Flask application, create a Translator serv
 What you'll need: Python and Visual Studio Code
 
 ## Setup your environment
+
 We will start by configuring the environments. We will install the necessary tooling, create the folder for their project, and setup the necessary Python libraries.
 
 To get started writing our Flask application with Python, we need to set up our development environment, which will require a couple of items to be installed. Fortunately, the tools we'll use are relatively common, so they'll serve you well even beyond this module. You might even have them installed! We'll use these tools to develop and test your application locally.
