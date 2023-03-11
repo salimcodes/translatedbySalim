@@ -45,4 +45,4 @@ Run the flask app locally
 flask run
 ```
 
-#### Read my hashnode blog on how to create this [here](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-how-i-built-an-ai-web-translator-app-with-azure-cognitive-services-and-flask).
+#### Read my blog post on how to create this [here](https://salimcodes.hashnode.dev/one-line-of-code-at-a-time-how-i-built-an-ai-web-translator-app-with-azure-cognitive-services-and-flask).
