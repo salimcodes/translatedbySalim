@@ -9,7 +9,6 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-
 @app.route('/', methods=['POST'])
 def index_post():
     # Read the values from the form
