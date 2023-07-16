@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'translatedbysalim'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBCBEA3A8F814639ADF6763F9A577D25 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_458BE79FAFDE4B08AF8B71667E81AB4C }}
