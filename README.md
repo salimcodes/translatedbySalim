@@ -2,6 +2,10 @@
 
 ## Getting Started
 
+### Creating an Azure Translator Resources on your Azure Account
+
+Create an Azure free account if you don't have one. You can find how to get that done [here](https://azure.microsoft.com/en-us/free).
+
 ### Testing Flask App locally
 
 Using the terminal;
