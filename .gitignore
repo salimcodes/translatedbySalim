@@ -1,9 +1,9 @@
+.env
 .installed.cfg
 bin
 develop-eggs
 dist
 downloads
-.env
 eggs
 parts
 src/*.egg-info
