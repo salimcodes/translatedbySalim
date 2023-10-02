@@ -1,5 +1,26 @@
 # TranslatedBySalim
 
+## What the App Does:
+
+The Flask app provides a web interface for users to translate text from one language to another. Users can input the original text they want to translate and select the target language they want the text to be translated into. The app then uses an external translation service to perform the translation and returns the translated text to the user.
+
+## Key Features
+
+- Text Translation: This Flask application enables users to easily translate text from one language to another.
+
+- User-Friendly Interface: The app provides a straightforward web interface with a text input field for the original text and a dropdown menu for selecting the target language.
+
+- External Translation Service: Seamlessly integrates with the Azure translation service to perform accurate and reliable translations.
+
+- Translation Display: After translation, the app displays the translated text alongside the original input text and the selected target language, making it easy for users to compare.
+
+- Secure Configuration: Utilizes environmental variables to securely manage sensitive information like API keys and endpoints, ensuring data privacy and security.
+
+## Technologies Used
+- Flask: Used to create a user-friendly interface for language translation. It handled incoming requests, processed form data, communicated with the Azure Translator Service, and rendered response templates, allowing users to input text for translation and view the translated results.
+  
+- Azure Translator Service: Used to perform language translation by constructing HTTP POST requests with the original text and target language parameters and then parsing the JSON responses to display the translated text to users. This integration enabled users to translate text seamlessly within the app, leveraging Azure's translation capabilities.
+
 ## Getting Started
 
 ### Creating an Azure Translator Resources on your Azure Account
